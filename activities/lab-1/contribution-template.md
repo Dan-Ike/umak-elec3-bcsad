@@ -2,6 +2,6 @@
 
 | Lab Section | Driver | Navigator | Recorder | Reviewer |
 |---|---|---|---|---|
-| Part A & B | | | | |
-| Part C | | | | |
-| Part D & E | | | | |
+| Part A & B | Estoque, Dan Ike Kresler | Estrella, Christian | Etang, Rose Ann | Feliciano, Maria Avejane |
+| Part C | Estoque, Dan Ike Kresler | Estrella, Christian | Etang, Rose Ann | Feliciano, Maria Avejane |
+| Part D & E | Estoque, Dan Ike Kresler | Estrella, Christian | Etang, Rose Ann | Feliciano, Maria Avejane |
